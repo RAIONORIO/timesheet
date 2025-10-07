@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Horas Pioneiro",
+  "description": "Um simples rastreador de serviço mensal para uso pessoal. Defina seu alvo (50 ou 30 horas), registre seu tempo de serviço diário e veja seu progresso mensal. Os dados são salvos localmente no seu navegador.",
+  "requestFramePermissions": []
+}
